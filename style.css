@@ -1,0 +1,55 @@
+.he{
+    font-size: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightskyblue;
+}
+
+.rhcsa{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    background-color: deepskyblue;
+}
+
+.p1{
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.ceh{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    background-color: lightseagreen;
+}
+
+.p2{
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+body{
+    background-image: url(bg.jpg);
+    background-position: center;
+}
+table,th,td{
+    border: 3px solid black;
+
+}
+.tb{
+    margin: 20px 5px 20px 150px;
+}
+
+.nav{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    margin: 0px auto;
+}
+
