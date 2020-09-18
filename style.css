@@ -1,35 +1,40 @@
 .he{
     font-size: 100px;
+    color: white;
     text-align: center;
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: lightskyblue;
+    background-color: rgb(2, 10, 56);
 }
 
 .rhcsa{
     font-size: 50px;
+    color: white;
     font-weight: bold;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: left;
-    background-color: deepskyblue;
+    background-color: rgb(2, 10, 56);
 }
 
 .p1{
     font-size: 35px;
+    color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
 
 .ceh{
     font-size: 50px;
+    color: white;
     font-weight: bold;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: left;
-    background-color: lightseagreen;
+    background-color: rgb(2, 10, 56);
 }
 
 .p2{
     font-size: 35px;
+    color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
@@ -43,6 +48,7 @@ table,th,td{
 
 }
 .tb{
+    color: white;
     margin: 20px 5px 20px 150px;
 }
 
@@ -52,4 +58,8 @@ table,th,td{
     height: auto;
     margin: 0px auto;
 }
+ul{
+     color: white;
+}
+
 
